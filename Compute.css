@@ -1,0 +1,13 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.Subject{
+    text-align: left;
+    padding-top: 50px;
+}
+
+#Name,#Gradelevel,#Math,#MAPEH,#English,#Filipino,#click{
+    text-align: center;
+}
